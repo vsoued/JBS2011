@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- default string resources for Spanish(SP) -->
+<resources>
+	<string name="app_name">Sudoku</string>
+	<string name="main_title">Sudoku en Android</string>
+	<string name="continue_label">Continuar</string>
+	<string name="new_game_label">Juego Nuevo</string>
+	<string name="about_label">Información</string>
+	<string name="exit_label">Salir</string>
+	<string name="about_title">Acerca de Sudoku en Android</string>
+	<string name="about_text">
+	\Sudoku es un rompecabezas numérico basado 
+	en la lógica. El objetivo del juego es 
+	llenar una cuadrícula de 9x9, parcialmente 
+	llena, con los numeros del 1 al 9, de manera
+	que cada fila, columna, y recuadro de 3x3 
+	casillas (también llamadas <i>bloques</i>)
+	contengan cada dígito exactamente una vez.
+	</string>
+	<string name="settings_label">Ajustes...</string>
+	<string name="settings_title">Ajustes de Sudoku</string>
+	<string name="settings_shortcut">s</string>
+	<string name="music_title">Música</string>
+	<string name="music_summary">Reproducir música de fondo</string>
+	<string name="hints_title">Pistas</string>
+	<string name="hints_summary">Mostrar pistas durante el juego</string>
+	<string name="new_game_title">Dificultad</string>
+	<string name="easy_label">Fácil</string>
+	<string name="medium_label">Intermedio</string>
+	<string name="hard_label">Difícil</string>
+</resources>

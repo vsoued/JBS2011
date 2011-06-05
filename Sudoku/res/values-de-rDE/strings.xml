@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- default string resources for Dutch(DE) -->
+<resources>
+	<string name="app_name">Sudoku</string>
+	<string name="main_title">Android Sudoku</string>
+	<string name="continue_label">Blijven</string>
+	<string name="new_game_label">Nieuw spel</string>
+	<string name="about_label">Over</string>
+	<string name="exit_label">Afslag</string>
+	<string name="about_title">Over Android Sudoku</string>
+	<string name="about_text">
+	\Sudoku is een op logica gebaseerde aantal plaatsen puzzel.
+	Beginnend met een gedeeltelijk afgesloten 9x9 grid, de
+	doel is om het rooster te vullen, zodat elke
+	rij, elke kolom en elk van de 3x3 vakjes
+	(ook wel <i> blokken </i>) bevat de cijfers
+	1 tot 9 precies een keer.
+	</string>
+	<string name="settings_label">Instellingen ...</string>
+	<string name="settings_title">Sudoku Instellingen</string>
+	<string name="settings_shortcut">s</string>
+	<string name="music_title">Muziek</string>
+	<string name="music_summary">Achtergrondmuziek afspelen</string>
+	<string name="hints_title">Hints</string>
+	<string name="hints_summary">Toon hints tijdens het spelen</string>
+	<string name="new_game_title">Moeilijkheden</string>
+	<string name="easy_label">Eenvoudig</string>
+	<string name="medium_label">Medium</string>
+	<string name="hard_label">Harde</string>
+</resources>
