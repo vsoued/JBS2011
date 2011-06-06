@@ -77,6 +77,8 @@ public class Astuto extends MazePlayer{
 		}else{
 			return Direction.CENTER;
 		}
+	}
+}
 		/*
 		MazePosition pointer = players.get(name);
 		System.out.println(pointer);
@@ -117,9 +119,9 @@ public class Astuto extends MazePlayer{
 		
 		System.out.println("topcount"+topcount);
 		return bestdirection;
-		*/
+		
 	}
-	/*
+	
 	private int checkAdvance(HashMap<String,MazePosition> players,ArrayList<MazePosition> jewels,MazeView maze, MazePosition pointer){
 		int count = 0;
 		//times++;
@@ -199,5 +201,6 @@ public class Astuto extends MazePlayer{
 			
 	return count;
 	}
-	*/
+	
 }
+*/
