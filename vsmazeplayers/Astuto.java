@@ -27,63 +27,54 @@ public class Astuto extends MazePlayer{
 		
 		//checks for jewel at north
 		if(pointer.col-1>=0 && !players.containsValue(pointer)){
-			if (maze.canMove(pointer, Direction.NORTH)){
+			//if (maze.canMove(pointer, Direction.NORTH)){
 				MazePosition tempointer = pointer;
 				tempointer.col--;
 				if (jewels.contains(tempointer)){
-					System.out.println("norte");
 					return Direction.NORTH;
 				}
-			}
+			//}
 		}
 		//checks for jewel at south
 		if(pointer.col+1<maze.getDepth() && !players.containsValue(pointer)){
-			if (maze.canMove(pointer, Direction.SOUTH)){
+			//if (maze.canMove(pointer, Direction.SOUTH)){
 				MazePosition tempointer = pointer;
 				tempointer.col++;
 				if (jewels.contains(tempointer)){
-					System.out.println("sur");
 					return Direction.SOUTH;
 				}
-			}
+			//}
 		}
 		//checks for jewel at east
 		if(pointer.row+1<maze.getWidth() && !players.containsValue(pointer)){
-			if (maze.canMove(pointer, Direction.EAST)){
+			//if (maze.canMove(pointer, Direction.EAST)){
 				MazePosition tempointer = pointer;
 				tempointer.row++;
 				if (jewels.contains(tempointer)){
-					System.out.println("este");
 					return Direction.EAST;
 				}
-			}
+			//}
 		}
 		//checks for jewel at west
 		if(pointer.row-1>=0 && !players.containsValue(pointer)){
-			if (maze.canMove(pointer, Direction.WEST)){
+			//if (maze.canMove(pointer, Direction.WEST)){
 				MazePosition tempointer = pointer;
 				tempointer.row--;
 				if (jewels.contains(tempointer)){
-					System.out.println("oeste");
 					return Direction.WEST;
 				} 
-			}
+			//}
 		}
 		//in preference order
 		if (maze.canMove(pointer, Direction.NORTH)){
-			System.out.println("NORTE");
 			return Direction.NORTH;
 		}else if(maze.canMove(pointer, Direction.WEST)){
-			System.out.println("OESTE");
 			return Direction.WEST;
 		}else if(maze.canMove(pointer, Direction.SOUTH)){
-			System.out.println("SUR");
 			return Direction.SOUTH;
 		}else if(maze.canMove(pointer, Direction.EAST)){
-			System.out.println("ESTE");
 			return Direction.EAST;
 		}else{
-			System.out.println("PASS");
 			return Direction.CENTER;
 		}
 		/*
