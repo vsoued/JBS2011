@@ -28,4 +28,9 @@
 	<string name="easy_label">Fácil</string>
 	<string name="medium_label">Intermedio</string>
 	<string name="hard_label">Difícil</string>
+	
+	
+	<string name="game_title">Juego</string>
+	<string name="no_moves_label">No Hay Movidas</string>
+	<string name="keypad_title">Teclado</string>
 </resources>

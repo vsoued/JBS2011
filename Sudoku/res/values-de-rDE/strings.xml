@@ -27,4 +27,9 @@
 	<string name="easy_label">Eenvoudig</string>
 	<string name="medium_label">Medium</string>
 	<string name="hard_label">Harde</string>
+	
+	
+	<string name="game_title">Game</string>
+	<string name="no_moves_label">Geen Zetten</string>
+	<string name="keypad_title">Toetsenblok</string>
 </resources>

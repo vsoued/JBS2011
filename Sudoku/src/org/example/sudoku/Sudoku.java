@@ -15,7 +15,8 @@ import android.util.Log;
 //sudoku activity
 public class Sudoku extends Activity implements OnClickListener {
     /** Called when the activity is first created. */
-    @Override
+	
+	@Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
@@ -65,6 +66,10 @@ public class Sudoku extends Activity implements OnClickListener {
     }
     private void startGame(int i){
     	Log.d(TAG, "clicked on"+i);
+    	Intent intent = new Intent(this,Game.class);
+    	intent.putExtra(Game.KEY_DIFFICULTY,i);
+    	startActivity(intent);
+    	
     	
     }
     
