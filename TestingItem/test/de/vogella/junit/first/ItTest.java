@@ -61,7 +61,7 @@ public class ItTest {
 		It tester = new It("shirt", "shirt.jpg", "brandeis", 
 				"$50.00", "blue, brandeis logo", tags,
 				"www.brandeis.edu", "tops");
-		assertEquals("Result", "brandeis", tester.getName());
+		assertEquals("Result", "brandeis", tester.getBrand());
 	}
 	
 	@Test
@@ -167,7 +167,8 @@ public class ItTest {
 		It tester = new It("shirt", "shirt.jpg", "brandeis", 
 				"$50.00", "blue, brandeis logo", tags,
 				"www.brandeis.edu", "tops");
-		assertEquals("Result", "www.brandeis.edu", tester.getCategoryTag());
+		tester.setCategory("college");
+		assertEquals("Result", "college", tester.getCategoryTag());
 	}
 	
 	@Test
