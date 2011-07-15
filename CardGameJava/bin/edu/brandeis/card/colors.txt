@@ -1,0 +1,16 @@
+amarillo	-	yellow
+azul	-	blue
+blanco	-	white
+café	-	brown
+crema	-	cream-coloured
+dorado	-	gold-coloured
+gris	-	grey
+marrón	-	brown
+morado	-	purple
+moreno	-	brown, tanned
+naranja	-	orange
+negro	-	black
+rojo	-	red
+rosa	-	pink
+tinto	-	red
+verde	-	green

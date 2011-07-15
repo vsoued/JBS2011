@@ -1,0 +1,44 @@
+una ballena	-	a whale
+un bisonte	-	a bison
+un buey	-	an ox
+un búfalo	-	a buffalo
+un caballo	-	a horse
+una cabra	-	a goat
+un camello	-	a camel
+un carnero	-	a ram
+una cebra	-	a zebra
+un cerdo	-	a pig
+un delfín	-	a dolphin
+un dromedario	-	a camel, dromedary
+un elefante	-	an elephant
+una foca	-	a seal
+un gato	-	a cat
+una gata	-	a (female) cat
+un hipopótamo	-	a hippopotamus
+una jirafa	-	a giraffe
+un jaguar	-	a jaguar
+un león	-	a lion
+un leopardo	-	a leopard
+un lince	-	a lynx
+un lobo	-	a wolf
+una mangosta	-	a mongoose
+una mofeta	-	a skunk
+un oso	-	a bear
+un oso blanco/polar	-	a polar bear
+una oveja	-	a sheep
+un ovejo	-	a ram
+un perro	-	a dog
+una perra	-	a (female) dog
+un puma	-	a puma
+un rinoceronte	-	a rhino(ceros)
+un tejón	-	a badger
+un tigre	-	a tiger
+una vaca	-	a cow
+un visón	-	a mink
+un zorrillo	-	a skunk
+un babuino	-	a baboon
+un chango	-	a monkey (Mexico)
+un chimpancé	-	a chimp(anzee)
+una gorila	-	a gorilla
+un mono	-	a monkey
+un orangután	-	an orangutan

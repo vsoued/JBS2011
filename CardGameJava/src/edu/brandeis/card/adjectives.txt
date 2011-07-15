@@ -1,0 +1,53 @@
+pequeño	-	small
+grande 	-	large
+joven 	-	young
+mayor 	-	elderly
+bueno 	-	good
+correcto	-	right, correct
+equivocado	-	wrong, incorrect
+frío	-	cold
+caliente	-	hot, warm
+cálido	-	warm
+tibio	-	warm, lukewarm
+bonito 	-	pretty
+largo	-	long
+corto 	-	short
+fuerte	-	strong
+débil 	-	weak
+claro	-	light(color), bright; clear
+próximo 	-	next
+siguiente 	-	next, following
+último	-	last, most recent
+pasado 	-	last, previous
+cercano 	-	nearby
+cerca 	-	near
+bajo	-	low; short(person); quiet(voice)
+alto 	-	high, tall
+nuevo 	-	new
+viejo 	-	old
+fácil 	-	easy
+difícil 	-	difficult
+duro 	-	hard; difficult
+ligero 	-	light(weight)
+pesado 	-	heavy
+limpio 	-	clean
+sucio 	-	dirty
+lleno 	-	full
+vacío	-	empty
+seco	-	dry
+mojado 	-	wet
+fresco 	-	fresh
+caro	-	expensive
+barato	-	cheap
+ruidoso 	-	loud, noisy
+tranquilo 	-	quiet
+feliz 	-	happy
+contento	-	happy, satisfied
+cansado	-	tired
+triste	-	sad
+preocupado 	-	worried, concerned
+enfermo	-	ill
+sano 	-	healthy
+amable 	-	kind, generous
+amigable 	-	friendly
+simpático 	-	kind

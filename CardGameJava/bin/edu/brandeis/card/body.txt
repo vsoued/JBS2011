@@ -1,0 +1,59 @@
+la cabeza	-	the head
+la cara	-	the face
+la espalda	-	the back
+los huesos	-	the bones
+los músculos	-	the muscles
+la piel	-	the skin
+la sangre	-	the blood
+el tronco	-	the torso, body
+las venas	-	the veins
+la boca	-	the mouth
+el cabello	-	the hair
+los cachetes	-	the cheeks
+el cuello	-	the neck
+los dientes	-	the teeth
+la frente	-	the forehead
+los labios	-	the lips
+la lengua	-	the tongue
+las mejillas	-	the cheeks
+el mentón	-	the chin
+la nariz	-	the nose
+la nuca	-	the back of the neck, nape of the neck
+los ojos	-	the eyes
+las orejas	-	the ears
+el pelo	-	the hair
+el abdomen	-	the abdomen
+los antebrazos	-	the forearms
+los brazos	-	the arms
+la cintura	-	the waist
+los codos	-	the elbows
+los hombros	-	the shoulders
+el ombligo	-	the navel, belly button
+el pecho	-	the chest
+los dedos	-	the fingers
+las manos	-	the hands
+las muñecas	-	the wrists
+los muslos	-	the thighs
+las pantorrillas	-	the calves
+las piernas	-	the legs
+los pies	-	the feet
+las rodillas	-	the knees
+los talones	-	the heels
+el apéndice	-	the appendix
+el cerebro	-	the brain
+el colon	-	the colon
+la columna vertebral	-	the spinal column
+el esófago	-	the oesophagus
+las glándulas	-	the glands
+el hígado	-	the liver
+el estómago	-	the stomach
+los intestinos	-	the bowels, intestines
+el intestino delgado	-	the small intestine
+el intestino grueso	-	the large intestine
+la matriz	-	the womb
+los ovarios	-	the ovaries
+el páncreas	-	the pancreas
+los riñones	-	the kidneys
+el útero	-	the womb, uterus
+la vejiga	-	the bladder
+la vesícula biliar	-	the gallbladder

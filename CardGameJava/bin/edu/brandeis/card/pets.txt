@@ -1,0 +1,18 @@
+un perro/a	-	a dog
+un perrito	-	puppy
+un gato/a	-	a cat
+un conejo	-	a rabbit
+un pez	-	a fish
+peces tropicales	-	tropical fish
+un gerbo	-	a gerbil
+un ratón	-	a mouse
+una rata	-	a rat
+un hámster	-	a hamster
+un caballo	-	a horse
+un canario	-	a canary
+un cotorro	-	a parrot
+un loro	-	a parrot
+un perico	-	a parakeet
+un sapo	-	a toad
+una tortuga	-	a tortoise
+una tortuga	-	a turtle

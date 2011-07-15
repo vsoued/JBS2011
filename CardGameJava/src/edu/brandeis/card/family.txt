@@ -1,0 +1,14 @@
+madre	-	mother
+padre	-	father
+hermano/a	-	brother/sister
+hijo/a	-	son/daughter
+abuelo/a	-	grandfather/grandmother
+tío/a	-	uncle/aunt
+primo/a	-	cousin
+sobrino/a	-	nephew/niece
+novio/a	-	boyfriend/girlfriend
+esposo/a	-	husband/wife
+papá	-	dad
+mamá	-	mum
+mis padres	-	my parents
+mis papás	-	my mum and dad
