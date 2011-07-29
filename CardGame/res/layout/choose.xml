@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent" 
+    android:layout_width="fill_parent" 
+    android:layout_gravity="center_horizontal" 
+    android:orientation="vertical">
+    
+    <TextView 
+   		android:layout_marginTop="10dip"
+    	android:gravity="center_horizontal"
+    	android:layout_gravity="center_horizontal" 
+    	android:text="English\n-\nSpanish" 
+    	android:id="@+id/textView2" 
+    	android:layout_height="wrap_content" 
+    	android:layout_width="wrap_content" 
+    	android:textSize = "50dip">
+    </TextView>
+    <TextView 
+    	android:gravity="center_horizontal"
+    	android:layout_gravity="center_horizontal" 
+    	android:text="Memory Game" 
+    	android:id="@+id/textView2" 
+    	android:textSize = "30dip"
+    	android:layout_height="wrap_content" 
+    	android:layout_width="wrap_content" 
+    	android:layout_margin="20dip">
+    </TextView>
+            <Button 
+            	android:layout_marginTop="10dip"
+            	android:gravity="center_horizontal"
+    			android:layout_gravity="center_horizontal" 
+            	android:id="@+id/animals" 
+	            android:layout_height="wrap_content" 
+	            android:layout_width="fill_parent" 
+	            android:textSize = "25dip"
+	            android:text="Play Animals" 
+	            android:minWidth="100dip"
+	            android:soundEffectsEnabled="true">
+            </Button>
+            <Button 
+            	android:layout_marginTop="5dip"
+            	android:gravity="center_horizontal"
+    			android:layout_gravity="center_horizontal" 
+            	android:id="@+id/colors" 
+            	android:layout_height="wrap_content" 
+            	android:layout_width="fill_parent" 
+            	android:text="Play Colors" 
+            	android:minWidth="100dip"
+            	android:textSize = "25dip"
+            	android:soundEffectsEnabled="true">
+            </Button>
+            <Button 
+            	android:layout_marginTop="5dip"
+            	android:gravity="center_horizontal"
+  			  	android:layout_gravity="center_horizontal" 
+            	android:id="@+id/numbers" 
+            	android:layout_height="wrap_content" 
+            	android:layout_width="fill_parent" 
+            	android:text="Play Numbers" 
+            	android:minWidth="100dip"
+            	android:textSize = "25dip"
+            	android:soundEffectsEnabled="true">
+            </Button>
+    
+</LinearLayout>
